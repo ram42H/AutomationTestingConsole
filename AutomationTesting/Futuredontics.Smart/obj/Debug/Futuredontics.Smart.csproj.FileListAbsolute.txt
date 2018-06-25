@@ -1,0 +1,5 @@
+D:\Code\AutomationTesting\Futuredontics.Smart\bin\Debug\Futuredontics.Smart.dll
+D:\Code\AutomationTesting\Futuredontics.Smart\bin\Debug\Futuredontics.Smart.pdb
+D:\Code\AutomationTesting\Futuredontics.Smart\obj\Debug\Futuredontics.Smart.dll
+D:\Code\AutomationTesting\Futuredontics.Smart\obj\Debug\Futuredontics.Smart.pdb
+D:\Code\AutomationTesting\Futuredontics.Smart\obj\Debug\Futuredontics.Smart.csprojResolveAssemblyReference.cache
